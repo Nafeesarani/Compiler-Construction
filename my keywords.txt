@@ -1,0 +1,8 @@
+    "numberkliye" is for int
+    "pointkliye"  is for float
+    "characterskliye" is for char
+    "agr"         is for  if
+    "likhoisko"   is for  print
+    "jbtk"        is for  while
+    "wapiskrdo"   is for  return
+    "yaa"         is for  or
