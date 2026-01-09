@@ -1,0 +1,13 @@
+numberkliye x = 25$
+numberkliye y = 3$
+
+agr (x yaa y) {
+    likhoisko("Condition is true")$
+}
+
+jbtk (x < 10) {
+    likhoisko(x)$
+    x = x + 1$
+}
+
+wapiskrdo y$
